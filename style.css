@@ -1,0 +1,234 @@
+#TOP{
+    background-color: black ;
+}
+
+.social-media>img{
+    border-radius: 50%;
+    border-style: solid;
+}
+.num-btn{
+    display: inline-flex;
+    float: right;
+     color:white;
+     margin-top: -15;
+}
+.call-me{
+
+        margin-right: 10;
+        box-shadow: currentColor;
+        background-color: rgb(107, 190, 39);
+        border-radius: 5px;
+}
+
+.why{
+    float: right;
+    margin-top: -50;
+    padding-right: 10;
+}
+.btn{
+    border-style: hidden;
+    background-color: white;
+    font-size: 17px;
+}
+.bck{
+    background-image: url(./Images/bg-img.jpg);
+    text-align: center;
+    padding-bottom: 80px;
+}
+.h_p{
+    padding: 25px 0 30px 0 ;
+    color: white;
+}
+.advn{
+    text-align: center;
+    border-style: hidden;
+    padding-bottom: 30px;
+}
+.inov{
+    padding-right: 15px;
+    padding-left: 15px;
+    border-style: hidden;
+    justify-content: center;
+
+}
+.prnt{
+    display: inline-flex;
+    justify-content: center;
+    font-size: 15;
+}
+.abt{
+            
+    background-image: url(./Images/typing-bg.jpg);
+}
+.abt>h1{
+    text-align: center;
+}
+.pra{
+    text-align: justify;
+    font-size: 14px;
+    padding-left: 25px;
+    padding-bottom: 50px;
+}
+.readmore{
+    text-align: center;
+    background-color: orange;
+    width: 150;
+    height: 30;
+    border-radius: 7px;
+}
+.serv{
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    
+}
+.star-box{
+   
+    background-color: #dddd;
+    width: 25%;
+    text-align: center;
+    border-radius: 20px;
+    border-style: hidden;
+} 
+#star-prnt{
+    display: inline-flex;
+    padding: 25 15 15 15;
+
+}
+.star-img{
+    margin-top: -25;
+    border-radius: 50%;
+}
+.our{
+    background-color: black;
+    border-style: solid;
+    text-align: center;
+    color: gray;
+}
+.our>button{
+    border-style: hidden;
+    background-color: black;
+    color: white;
+}
+.our-btn:hover{
+    color: chocolate;
+}
+.proc{
+            
+    text-align: center;
+}
+.our-proc{
+    text-align: center;
+    justify-content: center;
+
+}
+.proc-img{
+    border-radius: 50%;
+    border-color: gray;
+    border-style: solid;
+    border-width: 3px;
+    padding: 25px;
+}
+
+.proc-prnt{
+    display: flex;
+}
+.proc-btn{
+    background-color: yellow;
+    margin-top: -290px;
+    border-style: hidden;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+.ppl{
+    text-align: center;
+}
+.ppl-tbl{
+    display: inline-flex;
+}
+.ppl-tbl2{
+    display: inline-flex;
+    border-left: solid grey 2px;
+ }
+.ppl-td{
+    display: inline-flex;
+    padding: 10 10 10 10;
+}
+.ppl-td2{
+    display: inline-flex;
+    border-bottom: solid;
+    border-color: grey;
+    padding-left: 10px;
+}
+.ppl-pra{
+    display: inline-block;
+    text-align: justify;
+    font-size: inherit;         
+}
+.table-table{
+    display: inline-flex;
+    padding: 10 10 10 10;
+}
+.skills{
+    text-align: center;
+ }
+ .skil-per{
+     display: inline-flex;
+ }
+ 
+.cen{
+    text-align: center;
+    padding-bottom: 50;
+
+}
+.main{
+    text-align: center;
+    align-content: center;
+    display: flex;
+    padding-left: 15%;
+    padding-bottom: 20px;
+}
+table{
+    background-color:whites;
+    text-align: center;
+    padding: 10px 40px 40px 40px;  
+    margin: -5;
+    margin-bottom: -15;
+    background-color: white;
+    border: 1px black solid;
+}
+#middle{
+    position: relative;
+    margin-top: -50;
+}
+
+.orderbtn{
+    position: relative;
+    color: white;
+    background-color:rgb(55, 39, 197);
+    padding: 4 15 4 15;
+    border-style: ridge;
+}
+ .project{
+    text-align: center;
+    color: white;
+    background-color: rgb(107, 190, 39);
+    padding: 10 25 20 10;
+}
+.project>h1{
+    font-size: 50px;
+}
+.contact{
+    text-align: center;
+}
+.last{
+    display: inline-flex;
+    background-color: rgb(107, 190, 39);
+    width: 100%;
+}
+.services{
+    text-align: center;
+    text-align: justify;
+    padding-right: 150px;
+}
